@@ -1,10 +1,10 @@
 ## ABOUT TOOL :
-
+Ripper is a powerful tool that requires responsible and ethical usage. Always adhere to legal and ethical guidelines when performing any security assessments or vulnerability scanning.
 
 
 ## Tool Screenshot
 
-![Alt text](https://raw.githubusercontent.com/Cold-Breazy/spyder/main/ripper.png "screenshot")
+![Alt text](https://raw.githubusercontent.com/Cold-Breazy/Ripper/main/ripper.png "screenshot")
 
 ## AVAILABLE ON :
 
@@ -49,7 +49,7 @@
 ## Total Tool Views?
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcold-breazy%2FRipper&count_bg=%23FF6C1D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## LET'S CHAT
+## Having Problems ?. Lets Connect Bellow
 
 <div id="badges">
 <a href="https://instagram.com/permanentblank/">
